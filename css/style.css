@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrap{
+    width:1024px;
+    margin: 0 auto;
+    min-height: 100%;
+    position: relative;
+}
+#header{
+    height:148px;
+}
+.FirstImg{
+position: relative;
+top:0;
+left: 0;
+}
+.SecondImg{
+position: absolute;
+top:51px;
+left: 29px;
+}
+.icong{
+    position: absolute;
+    top:100px;
+    right: 30px;  
+}
+.icont{
+    position: absolute;
+    top:100px;
+    right: 63px;  
+}
+.iconf{
+    position: absolute;
+    top:100px;
+    right: 96px;  
+}
+.iconv{
+    position: absolute;
+    top:100px;
+    right: 129px;  
+}
+#header-2{
+    height:40px;
+    width:1024px;
+}
+.grad{
+    height: 40px;
+background: linear-gradient( #444444, #333333);
+box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .15);                                      
+}
+.kat{
+    width: 112px;
+    height: 40px;
+    border-right: 1px solid #333333;
+}
+.menu{
+    text-align: center;
+    font-size:12pt;
+    line-height:40px;
+    font-family: arial;
+    font-weight:bold;
+    color:#ffffff;
+    text-shadow: 0 1px 0  rgba(0, 0, 0, .25);
+}
+.blog{
+    width: 94px;
+    height: 40px;
+    border-right: 1px solid #333333;
+    border-left:1px solid #444444;
+    position: relative;
+    left: 113px;
+    top:-40px;
+}
+.sale{
+    width: 161px;
+    height: 40px;
+    border-right: 1px solid #333333;
+    border-left:1px solid #444444;
+    position: relative;
+    left: 209px;
+    top:-80px;
+}
+.prais{
+    width: 142px;
+    height: 40px;
+    border-right: 1px solid #333333;
+    border-left:1px solid #444444;
+    position: relative;
+    left: 372px;
+    top:-120px;
+}
+.comp{
+    width: 141px;
+    height: 40px;
+    border-right: 1px solid #333333;
+    border-left:1px solid #444444;
+    position: relative;
+    left: 516px;
+    top:-160px;
+}
+.kont{
+    width: 123px;
+    height: 40px;
+    border-left:1px solid #444444;
+    border-right: 1px solid #333333;
+    position: relative;
+    left: 659px;
+    top:-200px;
+}
+.poloska{
+    width: 1px;
+    height: 40px;
+    background-color: #444444;
+    position: relative;
+    left: 784px;
+    top:-240px;
+}
